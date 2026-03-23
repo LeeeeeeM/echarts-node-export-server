@@ -13,7 +13,7 @@ change in this application.
 ## Next Version (2025-11-??)
 
 * __[maintenance]__
-Update dependency `canvas` to 3.2.1.
+Update dependency `canvas` to 3.2.2.
 
 * __[maintenance]__
 Update dependency `node-abi` to 3.89.0.
