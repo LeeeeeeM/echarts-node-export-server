@@ -16,7 +16,10 @@ change in this application.
 Update dependency `canvas` to 3.2.1.
 
 * __[maintenance]__
-Update dependency `node-abi` to 3.87.0.
+Update dependency `node-abi` to 3.89.0.
+
+* __[maintenance]__
+Update dependency `pump` to 3.0.4.
 
 * __[maintenance]__
 Update dependency `semver` to 7.7.4.
